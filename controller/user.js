@@ -34,7 +34,7 @@ router.post("/create-user", upload.single("file"), async (req, res, next) => {
 
     const activationToken = createActivationToken(user);
 
-    const activationUrl = `${process.env.CLIENT_URL}/activation/${activationToken}`;
+    const activationUrl = `${process.env.CLIENT_URL1}/activation/${activationToken}`;
 
     try {
       await sendMail({

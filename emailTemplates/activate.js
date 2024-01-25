@@ -139,7 +139,7 @@ table, td { color: #000000; } #u_body a { color: #0000ee; text-decoration: under
   <tr>
     <td style="padding-right: 0px;padding-left: 0px;" align="center">
       
-      <img align="center" border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWXCWAStv_rpTHKWTOX8lThBC29skQkwzxZys5nf8cu7wYHebrT_vOSLjBSjsKdeUMyw2JOUdQt6HUk3C45UZi_QiGkhjpftAfc9L_u2SjFBlqp0eYVw-R1szJeCtnfQgIw92jTQXUkQH_IyP45USQe7sVfVeaq7XNjO4aBBT441xeo3K5OjxM3lFKog/s1600/image-5.png" alt="Logo" title="Logo" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 30%;max-width: 174px;" width="174" class="v-src-width v-src-max-width"/>
+      <img align="center" border="0" src="https://res.cloudinary.com/disdmmaqq/image/upload/v1706202471/aqkab56oehp9uq6sc37i.png" alt="Logo" title="Logo" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 30%;max-width: 174px;" width="174" class="v-src-width v-src-max-width"/>
       
     </td>
   </tr>
@@ -220,7 +220,7 @@ table, td { color: #000000; } #u_body a { color: #0000ee; text-decoration: under
   <div style="color: #333333; line-height: 180%; text-align: left; word-wrap: break-word;">
     <p style="font-size: 14px; line-height: 180%;"><span style="font-size: 18px; line-height: 32.4px; font-family: Lato, sans-serif;"><strong><span style="line-height: 32.4px; font-size: 18px;">Dear {{name}}, </span></strong></span></p>
 <p style="font-size: 14px; line-height: 180%;"> </p>
-<p style="line-height: 180%;"><span style="font-size: 16px; line-height: 28.8px; font-family: Lato, sans-serif;">I hope this email finds you well. I am writing to inform you about the next steps to connect with UniConnect. To proceed with the verification process, kindly use the button provided below to verify your email.</span></p>
+<p style="line-height: 180%;"><span style="font-size: 16px; line-height: 28.8px; font-family: Lato, sans-serif;">I hope this email finds you well. I am writing to inform you about the next steps to connect with UniSync. To proceed with the verification process, kindly use the button provided below to verify your email.</span></p>
   </div>
 
       </td>
@@ -256,7 +256,7 @@ table, td { color: #000000; } #u_body a { color: #0000ee; text-decoration: under
     <p style="line-height: 170%;"><span style="font-family: Lato, sans-serif; line-height: 27.2px; font-size: 16px;">Thank you for your cooperation. If you have any questions or concerns, please don't hesitate to reach out to us.</span></p>
 <br>
 <p style="line-height: 170%;"><span style="font-family: Lato, sans-serif; line-height: 27.2px; font-size: 16px;">Best regards,</span></p>
-<p style="font-size: 14px; line-height: 170%;"><strong style="font-family: Lato, sans-serif;"><span style="font-size: 16px; line-height: 27.2px;">Tarun</span></strong></p>
+<p style="font-size: 14px; line-height: 170%;"><strong style="font-family: Lato, sans-serif;"><span style="font-size: 16px; line-height: 27.2px;">Vikas</span></strong></p>
   </div>
 
       </td>
